@@ -28,9 +28,13 @@ Please refer to the comments and documentation within each folder for details on
 
 ## Data Availability  
 The processed data supporting these analyses are deposited at **Zenodo**: [10.5281/zenodo.17008098](https://doi.org/10.5281/zenodo.17008098).  
+At present, the dataset is available **only to those with the direct link** (for peer review and editorial evaluation).  
+Following acceptance, we will make the dataset openly available without restriction through the same Zenodo record.  
+
 Raw sequencing data are available from the corresponding author upon reasonable request, in accordance with journal policy and data use agreements.  
 
 ---
+
 
 ## Citation  
 If you use this code or dataset, please cite our manuscript (upon acceptance) and the Zenodo DOI listed above.  
