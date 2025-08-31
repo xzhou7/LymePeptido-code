@@ -6,30 +6,29 @@ This repository contains code and analysis scripts for the research project on *
 
 ## Repository Structure  
 
-### `code/`  
-- Contains all **single-cell RNA-seq analysis** scripts. 
-  - **Patient single-cell data**
- 
-### Immune organoid stimulation/
-  - **Immune organoid stimulation single-cell data**  
+### `Code/`  
+- Contains scripts for **patient single-cell RNA-seq analysis**.  
 
-### `RNAseqcode/`  
+### `Immu Organiod Single Cell/`  
+- Contains scripts for **immune organoid stimulation single-cell RNA-seq analysis**.  
+
+### `RNAseqCode/`  
 - Contains scripts for **bulk RNA-seq analysis**.  
 
 ### `NULISAcode/`  
-- Contains analysis scripts for **NULISA-seq** experiments.  
+- Contains scripts for **NULISA-seq experiments**.  
 
 ---
 
 ## Usage  
-All scripts are written in **R** unless otherwise indicated.  
-To reproduce analyses, please refer to the documentation within each folder.  
+All scripts are written in **R** unless otherwise noted.  
+Please refer to the comments and documentation within each folder for details on how to run the analyses.  
 
 ---
 
 ## Data Availability  
 The processed data supporting these analyses are deposited at **Zenodo**: [10.5281/zenodo.17008098](https://doi.org/10.5281/zenodo.17008098).  
-Raw sequencing data are available from the corresponding author upon reasonable request, subject to journal policy and data use agreements.  
+Raw sequencing data are available from the corresponding author upon reasonable request, in accordance with journal policy and data use agreements.  
 
 ---
 
@@ -39,4 +38,4 @@ If you use this code or dataset, please cite our manuscript (upon acceptance) an
 ---
 
 ## License  
-This code is made available for **peer review purposes only**. Please contact the corresponding author for permissions regarding reuse or derivative works.  
+This code is provided for **peer review purposes only**. Please contact the corresponding author for permissions regarding reuse or derivative works.  
