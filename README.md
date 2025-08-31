@@ -7,12 +7,13 @@ This repository contains code and analysis scripts for the research project on *
 ## Repository Structure  
 
 ### `code/`  
-- Contains all **single-cell RNA-seq analysis** scripts.  
-- Includes two separate datasets:  
-  - **Patient single-cell data**  
+- Contains all **single-cell RNA-seq analysis** scripts. 
+  - **Patient single-cell data**
+ 
+### Immune organoid stimulation/
   - **Immune organoid stimulation single-cell data**  
 
-### `rna/`  
+### `RNAseqcode/`  
 - Contains scripts for **bulk RNA-seq analysis**.  
 
 ### `NULISAcode/`  
